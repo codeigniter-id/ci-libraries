@@ -7,7 +7,7 @@ Libraries CodeIgniter Indonesia
 
 ## Install
 
-... pandian cara menggunakan
+... panduan cara menggunakan
 
 ## Kontribusi
 
